@@ -60,7 +60,7 @@ def get_db_crds(db_crds):
 
 
 ## Create new client and confirm successful connection
-def create_and_test_mongodb_conn():
+def create_and_test_mongodb_conn(db_crds="mongo_db_dp3"):
     """
     Create new client and confirm successful connection
 
@@ -74,7 +74,7 @@ def create_and_test_mongodb_conn():
 
 
     ## Create a new client and connect to the server
-    uri = "mongodb+srv://" + db_creds[user] + ":" + db_creds[password] + "@" + db_creds[cluster] + ".hcgca2r.mongodb.net/?retryWrites=true&w=majority"
+    uri = "mongodb+srv://" + db_creds["user"] + ":" + db_creds["password"] + "@" + db_creds["cluster"] + ".hcgca2r.mongodb.net/?retryWrites=true&w=majority"
 
     client = MongoClient(uri, server_api=ServerApi('1'))
 
