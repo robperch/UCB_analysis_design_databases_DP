@@ -39,13 +39,19 @@ from .notion_utils import (
     notion_db_to_df,
 )
 
-## Database utils
+## SQL utils
 from .sql_utils import (
     datestring_to_sql_parameter,
     get_db_crds,
     database_conection,
     execute_sql_script,
     sql_to_df,
+)
+
+## SQL utils
+from .mongo_utils import (
+    get_db_crds,
+    create_and_test_mongodb_conn,
 )
 
 ## Excel utils

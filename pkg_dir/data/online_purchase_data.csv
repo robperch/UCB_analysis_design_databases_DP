@@ -1,0 +1,22 @@
+Purchase_ID,Customer,Purchase_Date,Delivery_Status,Ship_Date,Arrival_Date,Shipping_Addr,Distributor_ID
+1,1,2023-3-16,Arrived,2023-3-24,2023-4-10,"2443 Sierra Nevada Road, Mammoth Lakes CA 93546",3
+2,2,2022-4-15,Arrived,2022-4-20,2022-5-10,"915 Sacramento Street, Bakersfield CA 93305",3
+3,3,2022-9-6,Arrived,2022-9-14,2022-10-2,"1300 Lemos Lane, Fremont CA 94539",3
+4,4,2022-10-7,Arrived,2022-10-14,2022-10-31,"6214 Herzog Street, Oakland CA 94608",2
+5,5,2023-3-16,Arrived,2023-3-23,2023-4-12,"1238 Roanwood Way, Concord CA 94521",3
+6,6,2023-4-13,Shipped,2023-4-14,,"25538 Calaroga Avenue, Hayward CA 94545",1
+7,7,2023-3-20,Arrived,2023-3-26,2023-4-12,"2313 Vegas Avenue, Castro Valley CA 94546",3
+8,8,2022-9-10,Arrived,2022-9-17,2022-10-5,"1732 27th Avenue, Oakland CA 94601",3
+9,8,2023-4-13,Arrived,2023-4-21,2023-5-12,"1732 27th Avenue, Oakland CA 94601",1
+10,9,2022-9-8,Arrived,2022-9-12,2022-9-29,"19 Heritage, Oakland CA 94605",3
+11,9,2023-4-21,Shipped,2023-4-28,2023-5-17,"19 Heritage, Oakland CA 94605",3
+14,12,2022-12-14,Arrived,2022-12-15,2022-12-22,"9141 County Street, Hacienda Heights, CA 91745",2
+15,13,2023-1-11,Arrived,2023-1-12,2023-1-20,"421 Summer Dr., Los Angeles, CA 90019",2
+16,14,2023-1-12,Arrived,2023-1-16,2023-1-24,"7136 Evergreen Ave., San Francisco, CA 94110",3
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,s,

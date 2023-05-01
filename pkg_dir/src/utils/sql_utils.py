@@ -12,7 +12,7 @@
 "--------------- Standard library imports ---------------"
 
 "--------------- Third party imports ---------------"
-import psycopg2
+#import psycopg2
 import mysql.connector
 from mysql.connector import errorcode
 import pandas as pd
