@@ -1,0 +1,10 @@
+Prod_ID,Category,Style,Collection
+1,shoes,"[
+    'oldie',
+    'pimp',
+    'vintage',
+]",fall_2023
+2,sweater,,my_little_pony
+3,hat,"[
+    'newbie',
+]",
