@@ -25,3 +25,6 @@ __pycache__/
 ## Dump files
 dump
 
+## Taka File-1
+.env/
+Lib/
