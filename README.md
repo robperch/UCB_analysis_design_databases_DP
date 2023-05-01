@@ -20,6 +20,6 @@ To authenticate with MongoDB Atlas, follow these steps:
 
 
 ### Link to Google Sheet with data
-https://docs.google.com/spreadsheets/d/1CaU4omHh1rZQYb_iy9pkHJKKVCQGPPMUfp3vnJyhAWc/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1OxA7iuSHbzGIFBxQbTYPnZtcjOcycFAoRlCAM2kuzoY/edit#gid=0
 
 
