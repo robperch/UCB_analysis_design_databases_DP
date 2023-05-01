@@ -19,7 +19,8 @@ To authenticate with MongoDB Atlas, follow these steps:
 `brew services stop mongodb-community@4.4`
 
 
-### Link to Google Sheet with data
-https://docs.google.com/spreadsheets/d/1OxA7iuSHbzGIFBxQbTYPnZtcjOcycFAoRlCAM2kuzoY/edit#gid=0
+### References
+(Google Sheet)[https://docs.google.com/spreadsheets/d/1OxA7iuSHbzGIFBxQbTYPnZtcjOcycFAoRlCAM2kuzoY/edit#gid=0] with DP3 data.
+(Google Doc)[https://docs.google.com/document/d/1HsKJa5AkXgLe3vTHjPfe2o_LOou4Nx-uYncx87YRAx8/edit] with DP3 information.  
 
 
