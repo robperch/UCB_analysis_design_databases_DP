@@ -22,6 +22,13 @@ credentials.yaml
 ## Python
 __pycache__/
 
+## Taka file-2
+Scripts/
+pyvenv.cfg
+
 ## Dump files
 dump
 
+## Taka File-1
+.env/
+Lib/
