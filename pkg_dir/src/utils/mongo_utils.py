@@ -29,6 +29,24 @@ from pkg_dir.src.utils.general_utils import read_yaml
 "----------------------------------------------------------------------------------------------------------------------"
 
 
+## Converting MongoDB entries to pandas dataframe
+def MongoDB_to_DataFrame(query):
+    """
+    Converting MongoDB entries to pandas dataframe
+
+    :param query: MongoDB query
+    """
+
+
+    ls_results = []
+
+    for doc in query :
+        ls_results.append(doc)
+
+
+    return pd.DataFrame.from_dict(ls_results)
+
+
 
 
 

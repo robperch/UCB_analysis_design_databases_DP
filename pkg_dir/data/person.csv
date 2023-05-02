@@ -1,3 +1,11 @@
-PID,FName,MI,LName,Address,Email_Addr,Phone,Employee,Consignor,Customer,Designer
-1,John,R,Graft,Milvia 234 Berkeley CA,jrg@me.com,NaN,"{ 'Employee_ID': 1, 'SSN': 123, 'Store': 1, 'Union': 1, 'Working_Days': [ 'M', 'W', ], }",{},"{ 'Customer_ID': 1, 'Membership': 543, }",{}
-2,Raul,G,Hernandez,Shattuck 444 Berkeley CA,rgh@gmail.com,673-374-3722,{},"{ 'Consignor_ID': 1, 'Bank_Acct_No': 987, }",{},"{ 'Designer_ID': 1, }"
+PID,FName,MI,LName,Address,Email_Addr,Phone,Subclass
+1,John,R,Graft,Milvia 234 Berkeley CA,jrg@me.com,,"{""Employee"":{""Employee_ID"":""1"",""SSN"":""123"",""Store"":""1"",""Union"":""1"",""Working_Days"":[""M"",""W""],""Appraiser"":""1"",""Store_staff"":""1""},""Consignor"":{},""Customer"":{""Customer_ID"":""1"",""Membership"":""543""},""Designer"":{}}"
+2,Raul,G,Hernandez,Shattuck 444 Berkeley CA,rgh@gmail.com,673-374-3722,"{""Employee"":{""Employee_ID"":2,""SSN"":124,""Store"":2,""Union"":2,""Working_Days"":[""M"",""W""],""Appraiser"":2,""Store_staff"":2},""Consignor"":{},""Customer"":{},""Designer"":{}}"
+3,Don,D,Perez,Shattuck 434 Berkeley CA,don@yahoo.com,,"{""Employee"":{""Employee_ID"":3,""SSN"":1245,""Store"":1,""Union"":1,""Working_Days"":[""F"",""T""],""Appraiser"":3,""Store_staff"":3},""Consignor"":{},""Customer"":{""Customer_ID"":2,""Membership"":998},""Designer"":{}}"
+4,Albert,E,Spivak,,,,"{""Employee"":{},""Consignor"":{},""Customer"":{},""Designer"":{""Designer_ID"":4}}"
+5,Jack,T,Mendez,Milvia 433 Berkeley CA,jt@gmail.com,673-374-3453,"{""Employee"":{},""Consignor"":{""Consignor_ID"":9,""Bank_Acct_No"":3822},""Customer"":{},""Designer"":{}}"
+6,John,Z,Holz,Milvia 452 Berkeley CA,,,"{""Employee"":{""Employee_ID"":9,""SSN"":123423,""Store"":3,""Union"":1,""Working_Days"":[""M"",""F""],""Appraiser"":7,""Store_staff"":7},""Consignor"":{},""Customer"":{""Customer_ID"":45,""Membership"":5456323},""Designer"":{""Designer_ID"":47}}"
+7,Liv,C,Rin,Shattuck 213 Berkeley CA,lc@gmail.com,,{}
+8,Sara,G,Eckert,,sg@hotmail.com,673-374-582,{}
+9,Carl,P,Sart,Oxford 345 Berkeley CA,sg@yahoo.com,,{}
+10,Tok,R,Luvs,Shattuck 467 Berkeley CA,tr@hotmail.com,673-374-4723,{}
