@@ -3,8 +3,42 @@ Prod_ID,Category,Style,Collection
     'oldie',
     'pimp',
     'vintage',
-]",fall_2023
+]",fall 2023
 2,sweater,,my_little_pony
 3,hat,"[
     'newbie',
-]",
+]",fall 2021
+4,tie,"[
+    'mexican',
+    'traditional',
+    'vintage'
+]",levis
+5,shoes,"[
+    'japanese', 
+    'vintage', 
+    'casual'
+]",spring 2022
+6,jacket,"[
+    'minimal', 
+    'natural'
+]",fall 2021
+7,pants,"[
+    'retro', 
+    '90s', 
+    'classic'
+]",summer 2022
+8,t-shirt,"[
+    'rustic', 
+    'bohemian'
+]",winter 2021
+9,dress,"[
+    'organic', 
+    'floral'
+]",spring 2022
+10,hat,"[
+    'elegant', 
+    'chic', 
+    'leather',
+    'vintage',
+    'mexican'
+]",summer 2022
