@@ -44,16 +44,12 @@ LEFT JOIN products prd ON inv.Prod_ID = prd.Prod_ID
 LEFT JOIN online_purchase onp ON inv.Purchase_ID = onp.Purchase_ID
 
 
+WHERE
+    onp.Purchase_Date IS NOT NULL
 
 
--- WHERE puestoid = 'MEDICO'
--- -- WHERE usuarionomfull ILIKE '%silv%'
--- --   AND puestoid = 'MEDICO'
---
---
--- ORDER BY
---          usuarioest,
---          usuarionomfull
+ORDER BY
+    onp.Purchase_Date
 
 
 ;
