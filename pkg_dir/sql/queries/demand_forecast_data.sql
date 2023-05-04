@@ -19,7 +19,7 @@ SELECT
        inv.Discount,
 
        -- Products fields
-       prd.Prod_ID,
+#        prd.Prod_ID,
        prd.Category,
        prd.Style1,
        prd.Style2,
