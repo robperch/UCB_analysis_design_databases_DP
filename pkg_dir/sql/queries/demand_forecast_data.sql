@@ -2,7 +2,6 @@
 
 
 SELECT
-       *
        Inv_ID,
        Prod_ID,
        Item_condition,
