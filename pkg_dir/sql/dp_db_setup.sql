@@ -10,6 +10,9 @@ DROP DATABASE IF EXISTS beans_boutique;
 -- Creating new database
 CREATE DATABASE IF NOT EXISTS beans_boutique;
 
+-- Give access to everyone to the database
+GRANT ALL PRIVILEGES ON beans_boutique.* TO 'robperch'@'localhost';
+
 -- Using database
 USE beans_boutique;
 
