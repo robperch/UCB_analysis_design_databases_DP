@@ -3,6 +3,10 @@
 
 ## Imports
 
+from .sql_params import (
+    sql_params_workhrs,
+)
+
 
 
 
